@@ -1,4 +1,4 @@
-🛳️ Titanic Data Analysis
+# 🛳️ Titanic Data Analysis
 
 Hi there 👋
 This project is a simple exploration of the Titanic dataset using Python, Pandas, and Plotly.
@@ -11,7 +11,7 @@ How survival depended on gender, class, and age
 
 How to turn raw numbers into interactive visualizations 📊
 
-📂 Project Contents
+# 📂 Project Contents
 
 Notebook: step-by-step code with explanations
 
@@ -30,7 +30,7 @@ pip install pandas plotly seaborn
 
 Run the cells one by one and explore the charts
 
-✨ Key Insights
+# ✨ Key Insights
 
 Women in 1st class had the highest survival rate
 
